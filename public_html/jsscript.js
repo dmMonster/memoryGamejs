@@ -1,3 +1,4 @@
+//author dmmonster
 //start variables
 let numberOfCards = 20;
 const data = ["A","B","C","D","E","F","G","H","I","J"];
